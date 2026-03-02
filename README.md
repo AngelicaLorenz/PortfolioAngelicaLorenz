@@ -1,6 +1,6 @@
-👩‍💻 Portfólio Profissional - Angélica Daiane Lorenz - SCTEC SENAI LAB365
+👩‍💻 <strong> Portfólio Profissional - Angélica Daiane Lorenz - SCTEC SENAI LAB365
 
-🎯 1 Introdução e Objetivo:
+🎯 1 Introdução e Objetivo: </strong>
 
 Este projeto consiste no desenvolvimento de uma Landing Page de Portfólio Pessoal, criada como parte da atividade prática extra do curso de Introdução à Programação Front-End e Back-End do SCTEC - SENAI/SC LAB365. 
 
